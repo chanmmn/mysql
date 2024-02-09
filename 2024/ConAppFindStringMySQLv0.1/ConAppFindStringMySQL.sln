@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppFindStringMySQL", "ConAppFindStringMySQL\ConAppFindStringMySQL.csproj", "{CC5C79A5-108F-4852-980E-8A56AB441ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5C79A5-108F-4852-980E-8A56AB441ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5C79A5-108F-4852-980E-8A56AB441ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5C79A5-108F-4852-980E-8A56AB441ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5C79A5-108F-4852-980E-8A56AB441ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FADC4C4-4C08-4C06-A53C-5F37C11EF95D}
+	EndGlobalSection
+EndGlobal
